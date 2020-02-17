@@ -1,2 +1,3 @@
 nvnhnjv
 hola mundo
+Import numpy
